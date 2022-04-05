@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Dilek and I'm a Graphic Designer/Full Stack Developer. I am currently focused on expanding my skills in regards to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+
 <!--
 **dilekbaykara/dilekbaykara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
